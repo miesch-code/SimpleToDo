@@ -34,11 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-Some challenges included:
--Being unable to drag-and-drop in the Design tab of the .XML files after changing the Layout from Constraints to Relative
--Navigating using the layout margins and constraints efficiently
+Some challenges included: (1) Being unable to drag-and-drop in the Design tab of the .XML files after changing the Layout from Constraints to Relative; (2) Navigating using the layout margins and constraints efficiently
 
 ## License
 
